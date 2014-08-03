@@ -10,6 +10,7 @@ Mode.mode([1, 2, 3]) == [1, 2, 3]
 
 ###Tests
 
+```bash
 bundle install
 bundle exec guard
-
+```
